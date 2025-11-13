@@ -59,3 +59,4 @@ RegisterNumber: 212223100045
 <img width="1918" height="505" alt="326327117-4b72f1cc-faa4-4acf-88c3-8cc9ba3361fa" src="https://github.com/user-attachments/assets/39cbe356-b687-4fdb-8a54-824924739069" />
 
 **RESULTS**
+Thus the program to implement a D flipflop using verilog and validating their functionality using their functional tables.
