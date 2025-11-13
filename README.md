@@ -42,10 +42,13 @@ else
 	Q<=D;
 endmodule
 ```
+
+```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 Developed by: RITHVIK S
 RegisterNumber: 212223100045
 */
+```
 
 **RTL LOGIC FOR FLIPFLOPS**
 <img width="737" height="332" alt="326327098-62373e4d-0689-4b80-842e-165057294500" src="https://github.com/user-attachments/assets/2033fe28-feeb-4a7d-be50-aeec3ac52920" />
